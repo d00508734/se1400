@@ -1,15 +1,18 @@
 body{background-color: #FFFFFF;
-    text: #666666;
+    color: #666666;
     font-family: verdana, Arial,sans-serif;}
 
 header{background-color: #003058;
-    text: #FFFFFF;
+    color: #FFFFFF;
     font-family: georgia;}
 
 header h1{
     line-height: 140%;
     padding: .5rem;
 }
-nav{
-    
-}
+nav{ font-weight: bold;
+    background-color: #F3F3F3;
+    }
+
+h2{color: #424242;
+font-family: georgia,sans-serif;}
