@@ -24,7 +24,7 @@ h1{background-image: url('utahtechlogo.svg');
     margin-bottom: 0;}
 
 h2{color: #424242;
-font-family: ,sans-serif;}
+font-family:sans-serif;}
 
 h3{color: #003058;}
 
@@ -38,7 +38,8 @@ font-weight: bold;}
 
 footer{font-size: .70rem;
     font-style: italic;
-    text-align: center;}
+    text-align: center;
+    padding:1rem;}
 
 #wrapper{width: 80%;
 margin-right: auto;}
