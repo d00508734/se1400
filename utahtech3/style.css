@@ -1,6 +1,8 @@
 body{background-color: linear-gradient(to bottom, #FFFFFF, #eeeeee);
     color: #666666;
-    font-family:sans-serif;}
+    font-family:sans-serif;
+    background-attachment: fixed;
+}
 
 header{background-color: #003058;
     color: #FFFFFF;
