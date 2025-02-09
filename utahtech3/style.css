@@ -51,8 +51,7 @@ dt{color:#003058; font-weight: bold;}
     background-image: url('homehero.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position:center;
-    padding: 0%; }
+    background-position:center; }
 
 #studenthero {height: 300px;
     background-image: url('studenthero.jpg');
