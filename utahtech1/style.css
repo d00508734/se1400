@@ -19,7 +19,6 @@ header h1 {
 }
 
 
-
 nav {
     font-weight: bold;
     background-color: #F3F3F3;
@@ -52,7 +51,7 @@ footer {
 
 
 #wrapper { width: 80%;
-    padding: 0px;
+    padding: 2rem;
     margin-right: auto;
     margin-left: auto;
 }
