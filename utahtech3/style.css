@@ -27,7 +27,10 @@ h2{ color:#424242;
 
 h3{ color: #003058;}
 
-main{ padding: 2%;}
+main {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }  
 
 .ut{ color:#BA1C21;
     font-weight: bold;}
