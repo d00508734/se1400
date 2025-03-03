@@ -13,7 +13,7 @@ header h1{line-height: 140%;
 nav{font-weight: bold;
     background-color:#F3F3F3;
     padding-top: .5rem; 
-    padding-left: 2rem;}
+    padding-left: .5rem;}
 
 h1{ background-image: url('utahtechlogo.svg');
     background-position: right;
