@@ -43,14 +43,10 @@
     grid-column: 1 / 8;
     background: rgba(255, 0, 0, 0.3);
   }
-  
-  .sidebar-right {
-    grid-column: 7 / 8;
-    background: rgba(255, 165, 0, 0.3);
-  }
-  
+
   footer {
-    grid-column: 2 / 8;
+    grid-column: 1 / 8;
+    height: 300px;
   }
   
  
