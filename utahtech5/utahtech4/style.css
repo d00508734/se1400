@@ -112,3 +112,40 @@ nav a:hover{background-color: #BA1C21;}
 #greybar{background-color: #424242;
     grid-row: 2/3;
     grid-column: 1/-1;}
+
+@media only screen and (max-width: 1100px) {
+        #wrapper {
+          grid-template-columns: 1fr minmax(0, 150px) minmax(0, 150px) minmax(0, 150px) minmax(0, 150px) minmax(0, 150px) minmax(0, 150px) 1fr;
+        }
+      }
+      
+@media only screen and (max-width: 900px) {
+nav { grid-column: 1 / 5;
+    grid-row: 2 / 3;
+    position: static;}
+      nav ul {
+        flex-flow: column nowrap;}
+#homehero, #studenthero, #facultyhero {
+    grid-column: 5 / 8;
+    grid-row: 2 / 3;
+    height: auto; }
+    main img {
+        float: none;
+        width: 100%;
+        height: auto;
+        padding-left: 0px;
+        }
+      }
+
+@media only screen and (max-width: 600px) {
+    header h1 {
+         background-image: none;
+        text-align: center;}
+     nav {
+        grid-column: 1 / -1;
+        grid-row: 2 / 3;}
+        #homehero, #studenthero, #facultyhero {
+        display: none;
+        }
+      }
+      
