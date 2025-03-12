@@ -20,7 +20,7 @@
   
   header, nav, main, aside, footer {
     background: rgba(0, 128, 255, 0.3);
-    padding: 0px;
+    padding: 20px;
     height: 100px; 
   }
   
