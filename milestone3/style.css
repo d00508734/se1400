@@ -32,6 +32,7 @@
   
   nav {
     grid-column: 1 / 8;
+    height: 50px;
   }
   
   main {
