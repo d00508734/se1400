@@ -31,29 +31,29 @@
   }
   
   nav {
-    grid-column: 1 / 8;
+    grid-column: 1 / 9;
     height: 50px;
   }
   
   main {
-    grid-column: 1 / 8; 
+    grid-column: 1 / 9; 
     height: 300px; 
     background: rgba(0, 255, 0, 0.3);
   }
   
   .sidebar-left {
-    grid-column: 1 / 8;
+    grid-column: 1 / 9;
     background: rgba(255, 0, 0, 0.3);
     height: 50px;
   }
   .sidebar-right {
-    grid-column: 1 / 8;
+    grid-column: 1 / 9;
     background: rgba(255, 0, 0, 0.3);
     height: 50px;
   }
 
   footer {
-    grid-column: 1/ 8;
+    grid-column: 1/ 9;
     height: 400px;
   }
   
