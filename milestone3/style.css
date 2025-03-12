@@ -46,7 +46,7 @@
   }
 
   footer {
-    grid-column: 2 / 8;
+    grid-column: 1 / 8;
     height: 300px;
   }
   
