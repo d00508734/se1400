@@ -68,4 +68,7 @@
     text-decoration: none;
     color: black;
   }
-  
+#pexels-simplyogo-1661837.jpg{
+    max-height: 300%;
+    grid-column: 1 / 9;
+}
