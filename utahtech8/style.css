@@ -91,7 +91,9 @@ nav a{ text-decoration:none;
     color: #FFFFFF;
     padding: 1rem 0;
     display: block;
-    text-align: center;}
+    text-align: center;
+    transition: background-color 0.5s ease-out;
+}
 
 * { box-sizing: border-box;}
 
@@ -145,6 +147,12 @@ grid-column: 1 / 9;
         width: 100%;           
         height: auto;         
         padding-left: 0px;         
+    }
+    video{
+        float: none;
+        margin: 0;
+        width: 100%;
+        height: auto;
     }
 }   
 
@@ -205,4 +213,8 @@ td{
 }
 tr:nth-of-type(even) {
     background-color: #F3F3F3;
+}
+video{
+    float: right;
+    margin-left: 2em;
 }
