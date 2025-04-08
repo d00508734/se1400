@@ -87,6 +87,14 @@ dt{color:#003058; font-weight: bold;}
         grid-row: 3 / 4;
         grid-column: 1 / 9;
 }
+#shophero{height: 300px;
+    background-image: url('shophero.jpg');
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center; 
+        grid-row: 3 / 4;
+        grid-column: 1 / 9;
+    }
 nav a{ text-decoration:none;
     color: #FFFFFF;
     padding: 1rem 0;
@@ -137,7 +145,7 @@ grid-column: 1 / 9;
     nav ul {
         flex-flow: column nowrap;
     }
-    #homehero, #studenthero, #facultyhero, #alumnihero {
+    #homehero, #studenthero, #facultyhero, #alumnihero, #shophero {
         grid-row: 2 / 3;      
         grid-column: 5 / 8;     
         height: auto;          
@@ -165,7 +173,7 @@ grid-column: 1 / 9;
         grid-row: 2 / 3;
         grid-column: 1 / -1; 
     }
-    #homehero, #studenthero, #facultyhero, #alumnihero {
+    #homehero, #studenthero, #facultyhero, #alumnihero, #shophero  {
         display: none;
     }
 }
