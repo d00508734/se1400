@@ -92,7 +92,7 @@ dt{color:#003058; font-weight: bold;}
     background-size: cover;
         background-repeat: no-repeat;
         background-position: center; 
-        grid-row: 3 / 4;
+        grid-row: 1 / 2;
         grid-column: 1 / 9;
     }
 nav a{ text-decoration:none;
